@@ -14,6 +14,7 @@ BEGIN
 
     --testing the script changes
     --Well that worked
+    --testing once more
     
     -- dbo.Process_Rate 'CN-1', 1, 'MSK|20|GP|GEN', 25, 0
 
