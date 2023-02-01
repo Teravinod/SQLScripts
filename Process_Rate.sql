@@ -12,6 +12,8 @@ CREATE   PROCEDURE [dbo].[Process_Rate] (
 AS
 BEGIN
 
+    --testing the script changes
+    
     -- dbo.Process_Rate 'CN-1', 1, 'MSK|20|GP|GEN', 25, 0
 
     SET NOCOUNT ON;
